@@ -16,7 +16,7 @@ class Solution:
                 s=s-nums[low]
                 low+=1
             
-            high+=1
+            high+= 1
         
         if res==float('inf'):
             return 0
