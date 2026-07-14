@@ -68,7 +68,7 @@ class Solution:
             if window==s1_freq:
                 return True
         
-        return true
+        return False
             
 
 
