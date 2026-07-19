@@ -13,7 +13,7 @@ class Solution:
 
         return False
 
-#above is brute force method
+#above is brute force methoddd
 
 
 class Solution:
