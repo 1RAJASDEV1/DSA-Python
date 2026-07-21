@@ -12,9 +12,9 @@ class Solution:
             head = head.next
 
         return False
+    
 
-#above is brute force methodd
-
+#above is brute force methoddsd
 
 
 class Solution:
