@@ -11,10 +11,12 @@ class Solution:
             seen.add(head)
             head = head.next
 
+
+
         return False
     
 
-#above is brute force methoddsd
+#above is brute force methoddsdtfhgcfghc
 
 
 class Solution:
